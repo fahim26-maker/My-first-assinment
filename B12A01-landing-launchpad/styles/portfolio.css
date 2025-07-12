@@ -98,12 +98,11 @@ nav ul {
 .banner-title {
     font-weight: bold;
     font-size: 65px;
-    text-align: center;
 }
 .banner {
 text-align: center;
 align-items: center;
-justify-items: center;
+justify-content: center;
 margin: 309px 267px 152px 267px;
 }
 .banner-title-2 {
