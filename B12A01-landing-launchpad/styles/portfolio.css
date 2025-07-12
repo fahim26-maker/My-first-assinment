@@ -127,3 +127,24 @@ margin: 309px 267px 152px 267px;
     max-width: 
 
 }
+/* Focus Styles */
+
+.focus {
+    text-align: center;
+    justify-content: space-between;
+    padding: 60px 20px;
+    background: #FFFFFF;
+    margin: 137px 150px 92px 150px;
+}
+.focus img {
+    margin-top: 20px;
+    max-width: 90%;
+    border-radius: 8px;
+}
+.focus-header {
+    font-weight: bold;
+    font-size: 50px;
+}
+.focus-description {
+    color: #000000 50%;
+}
