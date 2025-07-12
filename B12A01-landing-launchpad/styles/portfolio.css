@@ -148,3 +148,74 @@ margin: 309px 267px 152px 267px;
 .focus-description {
     color: #000000 50%;
 }
+/* Contact Section */
+.footer-title {
+    font-size: 97px;
+    font-weight: bold;
+}
+.footer {
+    display: flex;
+    margin: 92px 97px 15px 97px;
+}
+footer input[type="text"],  footer input[type="email"], footer textarea{
+    height: 70px;
+    border-radius: 10px;
+    background-color: #ffffff;
+    display: block;
+    width: 100%;
+    padding: 10px 20px;
+    margin-bottom: 24px;
+    border: 
+}
+form button {
+  margin-top: 20px;
+  padding: 10px 20px;
+  width: 100%;
+  background-color: #4E47FF;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background 0.3s;
+}
+.site-header {
+  padding: 50px 20px;
+  background-color: #ffffff;
+}
+/* last part */
+.last-section {
+    margin: 100px 250px 200px 250px;
+}
+.logo {
+  font-size: 100px;
+  font-weight: bold;
+  text-align: center;
+  color: #4E47FF;
+  font-weight: Black;
+}
+
+.tagline {
+  font-size: 16px;
+  color: #777;
+  margin: 20px 0;
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+.navigation {
+  margin-top: 20px;
+}
+
+.navigation a {
+  margin: 0 15px;
+  text-decoration: none;
+  color: #333;
+  font-size: 16px;
+}
+
+.navigation a:hover {
+  color: #3575ff;
+}
