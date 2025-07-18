@@ -103,7 +103,9 @@ nav ul {
 text-align: center;
 align-items: center;
 justify-content: center;
-margin: 309px 267px 152px 267px;
+display: flex;
+flex-direction: column;
+padding: 150px 0;
 }
 .banner-title-2 {
     font-weight: bold;
